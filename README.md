@@ -1,13 +1,13 @@
 # Trabajo-Final-Sistemas-Operativos
 ## 👥 Integrantes
 
-| N.º | Integrante |
-|:---:|------------|
-| 1 | Paola Centeno |
-| 2 | Juan Berrocal |
-| 3 | César Apcho |
-| 4 | Gael Milla |
-| 5 | Brad Cárdenas |
+| N.º | Integrante | DNI |
+|:---:|------------|:---------:|
+| 1 | Paola Centeno | 70591735 |
+| 2 | Juan Berrocal | 71442504 |
+| 3 | César Apcho | 60741550 |
+| 4 | Gael Milla | 70702600 |
+| 5 | Brad Cárdenas | 60489787 |
 
 # Simulación de Algoritmos de Planificación de CPU
 
